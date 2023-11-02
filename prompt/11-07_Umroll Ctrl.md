@@ -1,4 +1,4 @@
-## 11-07_Umroll Ctrl
+## 11-07_Unroll Ctrl
 ### User:
 Act as a professional SystemVerilog programmer.
 Unroll the for-loops of the following code. You can make shorten the code as long as the logic is the same, e.g., change if-else to `:?` operator, and change always block to assign statement.
